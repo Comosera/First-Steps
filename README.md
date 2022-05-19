@@ -1,2 +1,2 @@
 # First-Steps Python 2
-Navigating Github
+CodeCademy Basics of Python2 Language Fluency Course
